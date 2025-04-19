@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently building multi-agents using CrewAI and deep learning projects.
+- 🔭 I’m currently building multi-agents using CrewAI and working on deep learning projects.
 - 🌱 I’m currently learning Deep Learning, Machine Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on open-source projects, web applications, and innovative tech solutions.
 - 🤔I’m looking for help with advanced backend development, Large Language Models (LLMs), multimodal AI, and generative models. 
