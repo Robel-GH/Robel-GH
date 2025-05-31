@@ -9,7 +9,7 @@
 - 💬 Ask me about  Vuejs, React, Node.js, JavaScript and best coding practices.
 - 📫 How to reach me: robelgh103@gmail.com | https://www.linkedin.com/in/robel-gh | https://robel-gh.netlify.app/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving coding challenges, playing chess and exploring new tech trends!
+- ⚡ Fun fact: Coding puzzles are my jam, chess is my battleground, and new tech trends? I chase them like a curious AI!
 
 
 # 💻 Tech Stack:
