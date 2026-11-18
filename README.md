@@ -19,7 +19,6 @@
 
 ### 🧭 Right now
 
-- 🔬 **Researching** at **York University**: diffusion models that change one finding in a chest X-ray and keep the rest of the image unchanged, to test whether AI models rely on the real finding or on misleading patterns
 - 🍽️ **Offering Meal Checker** free of charge to organizations that serve meals to their communities
 - ⌨️ **Testing the Tigrigna Keyboard**, a native Android and iOS keyboard with handwriting recognition, with 11 testers
 - 🎓 **Finishing** an MSc in AI and Computer Science at the University of Calabria
