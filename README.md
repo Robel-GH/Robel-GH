@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Robel Gebrehiwot Brhane, Software & AI Engineer, Toronto" width="100%" />
+  <img src="banner.svg" alt="Robel Gebrehiwot Brhane, Software & AI Engineer, Toronto" width="100%" />
 </p>
 
 <p align="center">
@@ -145,5 +145,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="" width="100%" />
+  <img src="footer.svg" alt="" width="100%" />
 </p>
