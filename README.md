@@ -19,7 +19,7 @@
 
 ### 🧭 Right now
 
-- 🍽️ **Offering Meal Checker** free of charge to organizations that serve meals to their communities
+- 🍽️ **Offering Meal Checker Application** free of charge to organizations that serve meals to their communities
 - ⌨️ **Testing the Tigrigna Keyboard**, a native Android and iOS keyboard with handwriting recognition, with 11 testers
 - 🎓 **Finishing** an MSc in AI and Computer Science at the University of Calabria
 
