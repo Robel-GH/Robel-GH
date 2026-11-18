@@ -1,18 +1,74 @@
-## Hi there 👋 I'm Robel
+<h1 align="center">Hi, I'm Robel Gebrehiwot Brhane 👋</h1>
 
+<p align="center">
+  <b>Software & AI Engineer</b><br>
+  I build software that people can rely on, from healthcare systems to tools for communities that bigger products overlook.<br>
+  Based in Toronto, Canada, and open to on-site, hybrid and remote roles.
+</p>
 
-- 🌱 I’m currently learning Deep Learning, Machine Learning and Artificial Intelligence.
-- 👯 I’m looking to collaborate on open-source projects, web applications, and innovative tech solutions.
-- 🤔I’m looking for help with advanced backend development, Large Language Models (LLMs), multimodal AI, and generative models. 
-- 💬 Ask me about  Vuejs, React, Node.js, JavaScript and best coding practices.
-- 📫 How to reach me: robelgh103@gmail.com | https://www.linkedin.com/in/robel-gh | https://robel-gh.netlify.app/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coding puzzles are my jam, chess is my battleground, and new tech trends? I chase them like a curious AI!
+<p align="center">
+  <a href="https://robel-gh.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=Software%3A+Vue%2C+Node.js+and+Python;AI%3A+PyTorch%2C+RAG+and+diffusion+models;Mobile%3A+Flutter+and+Kotlin" alt="Software: Vue, Node.js and Python. AI: PyTorch, RAG and diffusion models. Mobile: Flutter and Kotlin." />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://robel-gh.github.io/"><img src="https://img.shields.io/badge/Portfolio-robel--gh.github.io-6B4435?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/robel-gh"><img src="https://img.shields.io/badge/LinkedIn-robel--gh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:robelghb@gmail.com"><img src="https://img.shields.io/badge/Email-robelghb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://robel-gh.github.io/resume/robel-resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-302821?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Résumé"></a>
+</p>
 
-# 💻 Tech Stack:
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+---
 
+### 🧭 About me
 
+- 🛠️ **Building:** production web apps with Vue, Node.js and Python, from client systems I led at Tekeze Technologies to Vue 3 features for a live booking marketplace and React and Ionic tools for **Farming Revolution's** AI weeding robot
+- 🔬 **Researching:** visiting researcher at **York University**, using diffusion models to change one finding in a chest X-ray while keeping the rest of the image unchanged, to test whether AI models rely on the real finding or on misleading patterns
+- 🍽️ **Volunteering:** **Meal Checker**, a QR-based meal app I offer free of charge to organizations that serve meals to their communities
+- 📱 **Shipping:** the **Tigrigna Keyboard**, a native Android and iOS keyboard with handwriting recognition, now in testing with 11 people
+- 🎓 **Studying:** MSc in AI and Computer Science at the University of Calabria (in progress); BSc in Computer Science and Engineering, Mekelle Institute of Technology (CGPA 3.93 / 4.00)
+
+### 🚀 Featured projects
+
+<sub>Newest first.</sub>
+
+| Year | Project | What it does | Stack | |
+|:--|:--|:--|:--|:--|
+| 2026 | 🏥 **[Hospital Management System](https://robel-gh.github.io/projects)** | Self-initiated hospital platform for patients, records, lab, pharmacy, billing and inventory, in English, Amharic and Tigrinya. Built with AI coding agents under my specification and review | Vue 3, Spring Boot, PostgreSQL, Keycloak, FastAPI | ![Pilot](https://img.shields.io/badge/status-local%20pilot-6B4435?style=flat-square) |
+| 2026 | ⌨️ **[Tigrigna Keyboard](https://robel-gh.github.io/projects)** | System-wide Tigrigna and English keyboard for Android and iOS, with ML Kit handwriting recognition and an encrypted clipboard | Kotlin, Swift, ML Kit | ![Testing](https://img.shields.io/badge/Google%20Play-internal%20testing-F4B400?style=flat-square) |
+| 2026 | 🍽️ **[Meal Checker](https://robel-gh.github.io/about)** | Replaces paper meal lists: residents show a QR code that expires in 60 seconds, staff scan it, and the database makes sure no meal is served twice | Flutter, Supabase, PostgreSQL | ![Free](https://img.shields.io/badge/free-for%20organizations-3FBF6F?style=flat-square) |
+| 2026 | 🚧 **[BlockAlert TO](https://robel-gh.github.io/projects)** | Tells Toronto residents what changed on the roads near home, work or school since their last check, using City of Toronto open data | Flutter, Dart, Maps | ![MVP](https://img.shields.io/badge/status-MVP-5B9BD5?style=flat-square) |
+| 2025–26 | 🚌 **[Bus-Rental Marketplace Redesign](https://robel-gh.github.io/projects)** | Mobile-first Vue 3 rebuild of a live marketplace where travellers compare bus-with-driver quotes, in several languages | Vue 3, Pinia, Vitest, i18n | ![Client](https://img.shields.io/badge/client%20project-code%20not%20public-6B4435?style=flat-square) |
+| 2025 | 🩺 **[Clinical RAG Assistant](https://github.com/Robel-GH/Clinical-RAG-Medical-Assistant)** | Answers medical questions from WHO guidelines with hybrid BM25 and dense retrieval, cites its sources, and says so when it finds no evidence. Runs a local LLM through Ollama | Python, Ollama, Streamlit | ![Code](https://img.shields.io/badge/code-public-2ea44f?style=flat-square) |
+| 2025 | 🧩 **[Keke AI Competition](https://github.com/Robel-GH/Keke)** | Search agent for a puzzle game whose rules can be rewritten. **2nd place**, 94% of hidden levels solved (team project) | Python, A*, IDA* | ![Code](https://img.shields.io/badge/code-public-2ea44f?style=flat-square) |
+| 2025 | 🩻 **[Chest X-ray Report Generation](https://github.com/Robel-GH/medical-report-generation)** | ResNet-50 encoder and GPT-2 decoder that draft the Findings and Impression sections of radiology reports | PyTorch, Transformers | ![Code](https://img.shields.io/badge/code-public-2ea44f?style=flat-square) |
+| 2024 | 💬 **[Unical Phonebook & Messaging](https://github.com/Robel-GH/Unical-Phonebook-and-Messaging)** | University directory with real-time messaging, role-based access and privacy controls (team project) | Vue 3, Pinia, STOMP | ![Code](https://img.shields.io/badge/code-public-2ea44f?style=flat-square) |
+| 2020–24 | 📊 **[Sales & Indigent Management Systems](https://robel-gh.github.io/projects)** | Two production systems I led for Tekeze clients: sales, clients and inventory; beneficiary registration and support tracking | Vue, Node.js and Express, MongoDB | ![Client](https://img.shields.io/badge/client%20project-code%20not%20public-6B4435?style=flat-square) |
+
+<sub>Private and unreleased projects are described in more detail on my <a href="https://robel-gh.github.io/projects">portfolio</a>.</sub>
+
+### 🧰 Tech I use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,express,py,pytorch,ts,js,react,flutter,kotlin,postgres,mongodb,supabase,docker,git&perline=8" alt="Vue, Node.js, Express, Python, PyTorch, TypeScript, JavaScript, React, Flutter, Kotlin, PostgreSQL, MongoDB, Supabase, Docker, Git" />
+  </a>
+</p>
+
+### 💼 Experience at a glance
+
+| When | Role |
+|:--|:--|
+| Apr 2026 – now | Visiting Researcher, York University, Toronto |
+| Nov 2025 – Apr 2026 | Frontend Developer (Vue.js), contract, bus-rental marketplace |
+| Oct 2025 – Jan 2026 | Working Student, Frontend Developer, Farming Revolution GmbH, Germany |
+| Jul 2020 – Jun 2021, Apr 2023 – Sep 2024 | Software Developer, Tekeze Technologies, Ethiopia |
+| Jun 2021 – Sep 2024 | Assistant Lecturer, Computer Science, Mekelle Institute of Technology |
+
+---
+
+<p align="center">
+  <b>Are you hiring a software, mobile or AI engineer in Canada or remote?</b><br>
+  The fastest way to reach me is <a href="mailto:robelghb@gmail.com">robelghb@gmail.com</a>.
+</p>
