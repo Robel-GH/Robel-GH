@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A21,55:6B4435,100:8FA28A&height=190&section=header&text=Robel%20Gebrehiwot%20Brhane&fontSize=42&fontColor=FAF6F0&fontAlignY=36&desc=Software%20%26%20AI%20Engineer%2C%20Toronto&descSize=18&descAlignY=58&descColor=F1E8DD" alt="Robel Gebrehiwot Brhane, Software & AI Engineer, Toronto" width="100%" />
+  <img src="assets/banner.svg" alt="Robel Gebrehiwot Brhane, Software & AI Engineer, Toronto" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://robel-gh.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&duration=3000&pause=900&color=6B4435&center=true&vCenter=true&width=640&lines=I+build+software+that+people+can+rely+on.;Software%3A+Vue%2C+Node.js+and+Python;AI%3A+PyTorch%2C+RAG+and+diffusion+models;Mobile%3A+Flutter+and+Kotlin" alt="I build software that people can rely on. Software: Vue, Node.js and Python. AI: PyTorch, RAG and diffusion models. Mobile: Flutter and Kotlin." />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=21&duration=3000&pause=900&color=A0704F&center=true&vCenter=true&width=640&lines=I+build+software+that+people+can+rely+on.;Software%3A+Vue%2C+Node.js+and+Python;AI%3A+PyTorch%2C+RAG+and+diffusion+models;Mobile%3A+Flutter+and+Kotlin" alt="I build software that people can rely on. Software: Vue, Node.js and Python. AI: PyTorch, RAG and diffusion models. Mobile: Flutter and Kotlin." />
   </a>
 </p>
 
@@ -98,11 +98,44 @@
 
 ### 🧰 Tech I use
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,ts,js,nodejs,express,py,pytorch,react,flutter,kotlin,postgres,mongodb,supabase,docker,git&perline=8" alt="Vue, TypeScript, JavaScript, Node.js, Express, Python, PyTorch, React, Flutter, Kotlin, PostgreSQL, MongoDB, Supabase, Docker, Git" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,bash" height="40" alt="Languages: Python, TypeScript, JavaScript, Java, C++, Bash"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,pinia,vuetify,react,tailwind,threejs,html,css,vite" height="40" alt="Frontend: Vue, Pinia, Vuetify, React, Tailwind CSS, Three.js, HTML, CSS, Vite"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,spring,graphql,apollo" height="40" alt="Backend: Node.js, Express, FastAPI, Flask, Django, Spring, GraphQL, Apollo"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI &amp; data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="40" alt="AI and data: PyTorch, TensorFlow, OpenCV"><br>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28" alt="Ollama">
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28" alt="Apache Spark">
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" height="28" alt="Neo4j">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28" alt="Tableau">
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" height="40" alt="Mobile: Flutter, Dart, Kotlin, Swift"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase" height="40" alt="Databases: PostgreSQL, MongoDB, Supabase, Firebase"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps &amp; tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vitest" height="40" alt="DevOps and tools: Docker, Git, GitHub, GitHub Actions, Linux, Vitest"><br>
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" height="28" alt="Keycloak">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -112,5 +145,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA28A,45:6B4435,100:3E2A21&height=110&section=footer" alt="" width="100%" />
+  <img src="assets/footer.svg" alt="" width="100%" />
 </p>
